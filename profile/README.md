@@ -1,21 +1,39 @@
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./zenshuii-logo-white.svg"
+    />
+    <img
+      src="./zenshuii-logo-charcoal.svg"
+      alt="Zenshuii"
+      width="200px"
+    />
+  </picture>
+</p>
+
 # Zenshuii
 
-Welcome to Zenshuii – a creative studio building mindful digital experiences and apps.
+Thoughtful digital products for everyday life.
 
-## About Us
-Zenshuii is a studio/company focused on blending technology and mindfulness. Our mission is to create apps and products that inspire calm, clarity, and personal growth.
+Zenshuii is an independent creative studio creating focused apps for personal growth, wellbeing, and everyday clarity.
 
-## Projects
-- **Stoic App** _(Coming Soon)_: A modern mobile app for stoic quotes, journaling, mood check-ins, and daily reflection. [stoic-app.com](https://stoic-app.com/)
-- More apps and projects coming soon!
+[Website](https://zenshuii.com) · [Instagram](https://instagram.com/zenshuii) · [YouTube](https://youtube.com/@zenshuiistudios)
 
-## Get Involved
-Interested in collaborating or joining the team? Reach out via [sim@zenshuii.com](mailto:sim@zenshuii.com) or connect on [Instagram](https://instagram.com/zenshuii).
+## Now Building
 
-## Links
-- Website: [zenshuii.com](https://zenshuii.com)
-- Instagram: [@zenshuii](https://instagram.com/zenshuii)
-- YouTube: [Zenshuii Studios](https://youtube.com/@zenshuiistudios)
+### Stoic
 
-## Contributing
-We welcome contributions and ideas! Please check individual project repositories for contribution guidelines.
+_Coming soon_
+
+Stoic brings daily perspective, personal journalling, and timeless wisdom together in a quieter practice.
+
+[Visit Stoic →](https://stoic-app.com/)
+
+More products are in development.
+
+## Contact
+
+Questions, future products, or potential collaborations:
+
+[sim@zenshuii.com](mailto:sim@zenshuii.com)
